@@ -9,4 +9,7 @@
 , Top = ./Top/package.dhall
 , GitSubmoduleStrategy = ./GitSubmoduleStrategy/package.dhall
 , Duration = ./Duration/package.dhall
+, OnlySpec = ./OnlySpec/package.dhall
+, EnvironmentSpec = ./EnvironmentSpec/package.dhall
+, ServiceSpec = ./ServiceSpec/package.dhall
 }
